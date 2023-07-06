@@ -1,7 +1,7 @@
 # webApp-python
-Repositório de estudos.
+Repositório de estudos de uma aplicação web com Flask.
  
-O projeto consiste em uma aplicação web desenvolvida usando Flask, onde os usuários podem realizar autenticação, explorar uma lista de jogos e interagir com recursos como formulários e URLs dinâmicas. Durante o curso, foram abordados os seguintes tópicos principais:
+Assim, o projeto consiste em uma aplicação web desenvolvida usando Flask, onde os usuários podem realizar autenticação, explorar uma lista de jogos e interagir com recursos como formulários e URLs dinâmicas. Durante o curso, foram abordados os seguintes tópicos principais:
 
 - Configuração e estrutura do projeto Flask
 - Roteamento de URLs usando a função **`@app.route`**
@@ -14,4 +14,3 @@ O projeto consiste em uma aplicação web desenvolvida usando Flask, onde os usu
 - Utilização da função **`url_for`** para criar URLs de forma dinâmica
 - Armazenamento de dados usando o recurso de sessão do Flask
 - Passagem de informações entre páginas usando query string
-- Desenvolvimento de um projeto completo, aplicando os conceitos aprendidos
